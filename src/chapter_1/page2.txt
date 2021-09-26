@@ -6,3 +6,7 @@ This is page 2 of chapter 1
 our second file
 
 now we have Git enabled
+edited version
+had a good idea
+new text for this page
+
