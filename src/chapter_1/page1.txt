@@ -1,0 +1,5 @@
+Thi is the first page of chapter 1
+whole name: page1.txt
+Created a new project
+Created a new packege called chapter_1
+Created a new text file called page1
